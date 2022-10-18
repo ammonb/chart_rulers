@@ -1,0 +1,5 @@
+*.pyc
+*.png
+venv/
+!longitude_40000_37_25_5.png
+!distance_40000_5.png
